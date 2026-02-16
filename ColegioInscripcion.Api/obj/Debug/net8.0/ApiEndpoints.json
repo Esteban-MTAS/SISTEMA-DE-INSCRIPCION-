@@ -1,0 +1,120 @@
+[
+  {
+    "ContainingType": "ColegioInscripcion.Api.Controllers.CatalogosController",
+    "Method": "AreasTecnicas",
+    "RelativePath": "api/catalogos/areas-tecnicas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ColegioInscripcion.Api.Controllers.CatalogosController",
+    "Method": "Grados",
+    "RelativePath": "api/catalogos/grados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nivelId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ColegioInscripcion.Api.Controllers.CatalogosController",
+    "Method": "Niveles",
+    "RelativePath": "api/catalogos/niveles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ColegioInscripcion.Api.Controllers.CatalogosController",
+    "Method": "OfertasTecnicas",
+    "RelativePath": "api/catalogos/ofertas-tecnicas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "periodoId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "gradoId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ColegioInscripcion.Api.Controllers.CatalogosController",
+    "Method": "Secciones",
+    "RelativePath": "api/catalogos/secciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "periodoId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "gradoId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ColegioInscripcion.Api.Controllers.HealthController",
+    "Method": "Get",
+    "RelativePath": "api/Health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ColegioInscripcion.Api.Controllers.HealthController",
+    "Method": "GetPeriodos",
+    "RelativePath": "api/Health/periodos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ColegioInscripcion.Api.Controllers.PeriodoEscolarController",
+    "Method": "GetAll",
+    "RelativePath": "api/periodos-escolares",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ColegioInscripcion.Api.Controllers.PeriodoEscolarController",
+    "Method": "GetActivo",
+    "RelativePath": "api/periodos-escolares/activo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

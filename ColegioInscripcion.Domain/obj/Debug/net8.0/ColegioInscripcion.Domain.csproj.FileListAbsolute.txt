@@ -1,0 +1,11 @@
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Domain\bin\Debug\net8.0\ColegioInscripcion.Domain.deps.json
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Domain\bin\Debug\net8.0\ColegioInscripcion.Domain.dll
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Domain\bin\Debug\net8.0\ColegioInscripcion.Domain.pdb
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Domain\obj\Debug\net8.0\ColegioInscripcion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Domain\obj\Debug\net8.0\ColegioInscripcion.Domain.AssemblyInfoInputs.cache
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Domain\obj\Debug\net8.0\ColegioInscripcion.Domain.AssemblyInfo.cs
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Domain\obj\Debug\net8.0\ColegioInscripcion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Domain\obj\Debug\net8.0\ColegioInscripcion.Domain.dll
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Domain\obj\Debug\net8.0\refint\ColegioInscripcion.Domain.dll
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Domain\obj\Debug\net8.0\ColegioInscripcion.Domain.pdb
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Domain\obj\Debug\net8.0\ref\ColegioInscripcion.Domain.dll

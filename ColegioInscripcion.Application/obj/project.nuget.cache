@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LVdmuVusedQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mataj\\Desktop\\ProyectoInscripcion\\ColegioInscripcion\\ColegioInscripcion.Application\\ColegioInscripcion.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mataj\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\mataj\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\mataj\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "C:\\Users\\mataj\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mataj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\mataj\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\bin\Debug\net8.0\ColegioInscripcion.Application.deps.json
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\bin\Debug\net8.0\ColegioInscripcion.Application.dll
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\bin\Debug\net8.0\ColegioInscripcion.Application.pdb
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\bin\Debug\net8.0\ColegioInscripcion.Domain.dll
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\bin\Debug\net8.0\ColegioInscripcion.Domain.pdb
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\obj\Debug\net8.0\ColegioInscripcion.Application.csproj.AssemblyReference.cache
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\obj\Debug\net8.0\ColegioInscripcion.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\obj\Debug\net8.0\ColegioInscripcion.Application.AssemblyInfoInputs.cache
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\obj\Debug\net8.0\ColegioInscripcion.Application.AssemblyInfo.cs
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\obj\Debug\net8.0\ColegioInscripcion.Application.csproj.CoreCompileInputs.cache
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\obj\Debug\net8.0\ColegioI.D69CAF38.Up2Date
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\obj\Debug\net8.0\ColegioInscripcion.Application.dll
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\obj\Debug\net8.0\refint\ColegioInscripcion.Application.dll
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\obj\Debug\net8.0\ColegioInscripcion.Application.pdb
+C:\Users\mataj\Desktop\ProyectoInscripcion\ColegioInscripcion\ColegioInscripcion.Application\obj\Debug\net8.0\ref\ColegioInscripcion.Application.dll

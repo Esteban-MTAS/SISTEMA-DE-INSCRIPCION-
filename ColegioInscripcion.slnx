@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="01-vision-y-alcance.md" />
+    <File Path="02-modelo-de-datos.md" />
+    <File Path="03-arquitectura-y-carpetas.md" />
+  </Folder>
+  <Project Path="ColegioInscripcion.Api/ColegioInscripcion.Api.csproj" />
+  <Project Path="ColegioInscripcion.Application/ColegioInscripcion.Application.csproj" />
+  <Project Path="ColegioInscripcion.Domain/ColegioInscripcion.Domain.csproj" />
+  <Project Path="ColegioInscripcion.Infrastructure/ColegioInscripcion.Infrastructure.csproj" />
+</Solution>
